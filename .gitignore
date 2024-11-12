@@ -1,1 +1,3 @@
-input/
+input/test.csv
+input/train.csv
+input/sample_submission.csv
